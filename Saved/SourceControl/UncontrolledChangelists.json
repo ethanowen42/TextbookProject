@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ethan/OneDrive/Documents/Unreal Projects/TextbookProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ethan/OneDrive/Documents/Unreal Projects/TextbookProject/Content/BP_RotatingChair.uasset",
+				"C:/Users/ethan/OneDrive/Documents/Unreal Projects/TextbookProject/Content/BP_FunctionExample.uasset",
+				"C:/Users/ethan/OneDrive/Documents/Unreal Projects/TextbookProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/A3/7YUJUYKS0RWHA1QYCV5AQD.uasset",
+				"C:/Users/ethan/OneDrive/Documents/Unreal Projects/TextbookProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ethan/OneDrive/Documents/Unreal Projects/TextbookProject/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/ethan/OneDrive/Documents/Unreal Projects/TextbookProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/U7/9U6D316ZYENGZF9E6L645E.uasset",
+				"C:/Users/ethan/OneDrive/Documents/Unreal Projects/TextbookProject/Content/BP_Barrel.uasset"
+			]
+		}
+	]
+}
